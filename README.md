@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/AI8AzViQHX4" target="_blank"><img src="https://github.com/kthenurseone/telegram-fake-hyper/blob/main/telegram%20fake%20hyper.gif?raw=true"></a></p>
+<p align="center"><a href="https://youtu.be/AI8AzViQHX4" target="_blank"><img src="https://github.com/kthenurseone/telegram_post_commenter/blob/main/program.gif?raw=true"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
